@@ -2,4 +2,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elloello&hide_border=true&count_private=true&theme=merko&show_icons=true)
 [![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=elloello&theme=merko&hide_border=true)](https://git.io/streak-stats)
-<a href="http://www.github.com/elloello"><img src="https://activity-graph.herokuapp.com/graph?username=elloello&theme=merko&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
