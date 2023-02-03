@@ -2,5 +2,5 @@
 
 >interested in backend, cloud computing & physics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=namedoesntexist&hide_border=true&count_private=true&theme=merko&show_icons=true)
-[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=namedoesntexist&theme=merko&hide_border=true)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=namedoesntexist&hide_border=true&count_private=true&theme=onedark&show_icons=true)
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=namedoesntexist&theme=onedark&hide_border=true)](https://git.io/streak-stats)
